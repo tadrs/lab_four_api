@@ -1,0 +1,91 @@
+{
+  "info": {
+    "_postman_id": "6ff71a1a-2821-46b1-a93f-1c4c464cb6f8",
+    "name": "lab_four_api",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "37577410",
+    "_collection_link": "https://go.postman.co/collection/37577410-6ff71a1a-2821-46b1-a93f-1c4c464cb6f8?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "get all users",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "get user by id",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "create new user",
+      "request": {
+        "method": "POST",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "edit a user",
+      "request": {
+        "method": "PATCH",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "delete user",
+      "request": {
+        "method": "DELETE",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "get all posts",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "get post by id",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "create new post",
+      "request": {
+        "method": "POST",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "edit a post",
+      "request": {
+        "method": "PATCH",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "delete a post",
+      "request": {
+        "method": "DELETE",
+        "header": []
+      },
+      "response": []
+    }
+  ]
+}
